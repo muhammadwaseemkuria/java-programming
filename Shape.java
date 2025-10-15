@@ -1,0 +1,5 @@
+public enum Shape{
+
+SQUARE,RECTANGULAR,TRAPEZOID,L_SHAPE,M_SHAPE,N_SHAPE;
+
+}
